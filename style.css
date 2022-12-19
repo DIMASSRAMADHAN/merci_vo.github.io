@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&family=Poppins&family=Space+Grotesk:wght@700&family=Wallpoet&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+
+.rounded{
+    width: 156px;
+    height: 317px;
+}
+
+.navbar-text{
+    font-family: 'Hanalei Fill', cursive;
+    color: brown;
+}
+
+h4{
+    font-family: 'Hanalei Fill', cursive;
+}
+
+p{
+    position: justify;
+    font-family: 'Poppins', sans-serif;
+}
+
+.b1{
+    font-family: 'Poppins', sans-serif;
+}
+
+.utama{
+    color: green;
+}
+
+.t2{
+    color: green;
+}
+
+.b2{
+    color: brown;
+}
+
+label{
+    font-family: 'Poppins', sans-serif;
+}
